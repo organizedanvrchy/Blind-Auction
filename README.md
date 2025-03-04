@@ -1,4 +1,4 @@
-# Blind Auction (Silent Auction)
+# Blind Auction (Silent Auction) (CLI)
 
 ## Summary
 This Python script simulates a silent auction where participants can enter their names and bids. The program collects all bids and determines the highest bidder as the winner. The program supports multiple bidders and clears the console screen after each bid to maintain privacy. Once all bids are entered, the program announces the winner with the highest bid.
