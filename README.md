@@ -25,4 +25,5 @@ This Python script simulates a silent auction where participants can enter their
 ## Running the Program
 To run the program, simply execute the script in your Python environment:
 ```bash
-python silent_auction.py
+python main.py
+```
